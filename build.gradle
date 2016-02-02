@@ -1,5 +1,6 @@
 apply plugin: 'java'
 apply plugin: 'application'
+apply plugin: 'idea'
 
 version = '1.0'
 mainClassName = 'com.setycz.hello.HelloWorldApp'
